@@ -17,3 +17,4 @@ Specialization Link: https://www.coursera.org/specializations/deep-learning
 2. [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](/Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)
 3. [Structuring Machine Learning Projects](/Structuring%20Machine%20Learning%20Projects)
 4. [Convolutional Neural Networks](/Convolutional%20Neural%20Networks)
+5. [Sequence Models](/Sequence%20Models)
